@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Book Name 1",
+      "author": "Book Title 1",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 2,
+      "name": "Book Name 2",
+      "author": "Book Title 2",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 3,
+      "name": "Book Name 3",
+      "author": "Book Title 3",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 4,
+      "name": "Book Name 4",
+      "author": "Book Title 4",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 5,
+      "name": "Book Name 5",
+      "author": "Book Title 5",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 6,
+      "name": "Book Name 6",
+      "author": "Book Title 6",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 7,
+      "name": "Book Name 7",
+      "author": "Book Title 7",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 8,
+      "name": "Book Name 8",
+      "author": "Book Title 8",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 9,
+      "name": "Book Name 9",
+      "author": "Book Title 9",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    },
+    {
+      "id": 10,
+      "name": "Book Name 10",
+      "author": "Book Title 10",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1716904474~exp=1716908074~hmac=54a7923ca908aecce2816e00449646bcc4ad68ebfafdad715f19341280aef503&w=1380"
+    }
+  ]
+  
